@@ -1,0 +1,10 @@
+category: scripts
+
+TECHNICAL DOCUMENTATION - File 7
+
+This is a test file for the reorganization exercise.
+Path: docs/módulo-3/références/file07.txt
+Category: scripts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -6,3 +6,6 @@ All questions involving GitHub and Vercel are DVAR as it requires shareable link
 All questions involving setting up localhost are DTUF as they should be running when submitting the assignment.
 All questions other that those should be simply DONE.
 
+If a question's answer is wrong on portal, it is marked as DNOT which is orthogonal to the above criteria and overrides them.
+Such question should be tried to check if the portal fixed it, ensuring the hardcoded wrong answer does not get submitted.
+

@@ -2,10 +2,11 @@ TDS Repository should exist on GitHub for single point of reference for all Git 
 Multiple Vercel projects should be made in the format of <roll>-q-<q_name>.
 Forwarding ngrok URLs could technically connect to the local PC.
 
-All questions involving GitHub and Vercel are DVAR as it requires shareable link where personal Variables can be known like Roll.
+All questions involving GitHub and Vercel and DVAR as it requires shareable link where personal Variables can be known like Roll.
 All questions involving setting up localhost are DTUF as they should be running when submitting the assignment.
+All questions involving both DVAR and DTUF (usually due to ngrok) are DVNT as they contain identifiable link and running server when submitting.
 All questions other that those should be simply DONE.
 
 If a question's answer is wrong on portal, it is marked as DNOT which is orthogonal to the above criteria and overrides them.
-Such question should be tried to check if the portal fixed it, ensuring the hardcoded wrong answer does not get submitted.
+Such question should be tried to check if the portal fixed it.
 

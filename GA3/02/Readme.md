@@ -6,10 +6,10 @@
 `set GEMINI_API_KEY="<GEMINI_API_KEY>"`
 
 4. Run following command:  
-`uvicorn main:app --host 127.0.0.1 --port 8001`
+`uvicorn main:app --host 127.0.0.1 --port 8002`
 
 5. Expose the endpoint to the internet. One solution is using ngrok by running following command in another terminal:  
-`ngrok http 8001`
+`ngrok http 8002`
 
 6. The public URL is the required solution.
 

@@ -1,6 +1,6 @@
 1. Open the current directory in WSL environment.
 
-2. Run the following command to install `asciinema:  
+2. Run the following command to install `asciinema`:  
 `uvx asciinema --version`
 
 3. Run the following command to start recording:  

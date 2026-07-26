@@ -1,0 +1,8 @@
+LXD_SANDBOX_START token=lxd_ff08ad4f73cf905de2da11a921ef724994c2d33ef71547e7
+LXD_FS_ATTEMPT path=/tmp/tds-lxd-canary/f8f736cc9ca6.txt
+LXD_FS_BLOCKED status=1
+LXD_NET_ATTEMPT token=lxd_ff08ad4f73cf905de2da11a921ef724994c2d33ef71547e7
+LXD_NET_DONE status=6
+LXD_RESOURCE_ATTEMPT allocation_mb=1152 spin_seconds=7
+LXD_RESOURCE_LIMIT_HIT status=137
+LXD_SANDBOX_END token=lxd_ff08ad4f73cf905de2da11a921ef724994c2d33ef71547e7

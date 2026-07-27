@@ -1,4 +1,4 @@
-1. Open `q-mcp-server-live-server/index.py` and replace `<roll>` with the correct roll number and `<ALLOWED_CORS_ORIGIN>` with the assigned values.
+1. Open `q-mcp-server-live-server/index.py` and replace `<roll>` with the correct roll number.
 
 2. Open terminal in the directory `q-mcp-server-live-server`.
 

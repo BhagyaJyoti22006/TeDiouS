@@ -1,6 +1,8 @@
-1. Run the `code.py`.
+1. Place the assigned `signal-capture.wav` in the current directory.
 
-2. Copy the value. This is the code.
+2. Run the `code.py`.
+
+3. Copy the value. This is the code.
 
 
 Recovered 5-Character Code:-  

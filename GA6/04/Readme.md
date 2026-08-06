@@ -1,6 +1,8 @@
-1. Run the `code.py`.
+1. Paste the assigned `q-playwright-shadow-incident-audit-server.html` in the current directory.
 
-2. Copy the value. This is the JSON.
+2. Run the `code.py`.
+
+3. Copy the value. This is the JSON.
 
 
 Required four fields as JSON:-  
